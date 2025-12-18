@@ -14,7 +14,7 @@ This project focuses on:
 ## 🔗 Download SDXL Model (IMPORTANT – Do This First)
 
 👉 **Download SDXL Base Model (safetensors)**
-[https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0)
+[https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0]([https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0](https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/blob/main/sd_xl_base_1.0.safetensors))
 
 ⬇️ Download file:
 
